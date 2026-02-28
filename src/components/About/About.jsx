@@ -1,5 +1,5 @@
 import styles from "./About.module.css";
-import profileImg from "../../assets/profile-placeholder.svg";
+import profileImg from "../../assets/profile.png";
 
 export default function About() {
   return (
